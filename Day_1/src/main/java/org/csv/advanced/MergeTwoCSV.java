@@ -28,9 +28,9 @@ public class MergeTwoCSV {
                     ((line1 = csvReader1.readNext()) != null)
             ){
                 if(line0[0].equals(line1[0])) {
-                    String[] ans = new String[line0.length + line1.length];
+                    String[] ans = new String[line0.length + line1.length-1];
                     System.arraycopy(line0, 0, ans, 0, line0.length);
-                    System.arraycopy(line1, 0, ans, line0.length, line1.length);
+                    System.arraycopy(line1, 1, ans, line0.length, line1.length-1);
                     System.out.println(String.join(", ", ans));
                     csvWriter.writeNext(ans);
                 }
