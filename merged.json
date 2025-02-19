@@ -1,0 +1,14 @@
+{
+  "id" : 10,
+  "name" : "Saurabh0",
+  "age" : 21,
+  "email" : "saurabh45215@gmail.com",
+  "skills" : [ "Java", "Mysql" ],
+  "address" : {
+    "city" : "Bhopal",
+    "state" : "Madhya Pradesh",
+    "country" : "India"
+  },
+  "blood_type" : "A",
+  "nationality" : "indian"
+}
