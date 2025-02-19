@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Saurabh",
+    "age": 21,
+    "email": "saurabh45215@gmail.com",
+    "skills": ["Java", "MySQL"],
+    "address": {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Aarav",
+    "age": 25,
+    "email": "aarav.sharma@gmail.com",
+    "skills": ["Python", "Django"],
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Neha",
+    "age": 23,
+    "email": "neha.verma@hotmail.com",
+    "skills": ["React", "Node.js"],
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Vikram",
+    "age": 26,
+    "email": "vikram.singh@outlook.com",
+    "skills": ["AWS", "DevOps"],
+    "address": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Priya",
+    "age": 27,
+    "email": "priya.mishra@gmail.com",
+    "skills": ["Flutter", "Firebase"],
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India"
+    }
+  }
+]
